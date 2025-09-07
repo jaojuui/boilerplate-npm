@@ -13,7 +13,7 @@
 	},
 	"version": "1.0.0",
 	"description": "A project that does something awesome",
-	"keywords": [],
+	"keywords": [ "descriptive", "related", "words"],
 	"author": "jaojuiii_dev",
 	"license": "ISC",
 	"bugs": {
