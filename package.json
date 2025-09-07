@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"@freecodecamp/example": "1.1.0",
+		"@freecodecamp/example": "1.2.13",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
@@ -21,4 +21,5 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
 	},
 	"homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme"
+	
 }
